@@ -1,0 +1,97 @@
+Cars
+
+Toyota
+86,$30150,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/t86.png?ck=05142020045748
+GR Supra,$64990,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/sup.png?ck=05142020045748
+Yaris Hatchback,$16790,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/yah.png?ck=05142020045748
+Prius,$28550,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/prs.png?ck=05142020045748
+Prius Prime,$32990,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/phv.png?ck=05142020045748
+Corolla Hatchback,$21050,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/chb.png?ck=05142020045748
+Corolla,$24990,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/cor.png?ck=05142020045748
+Camry,$26620,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/cam.png?ck=05142020045748
+Avalon,$42690,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/ava.png?ck=05142020045748
+
+Honda
+2020 Fit,$18076,https://images.honda.ca:443/models/H/Models/2020/fit/dx_10634_241modern_steel_metallic_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 Civic Coupe,$23476,https://images.honda.ca:443/models/H/Models/2020/civic_coupe/lx_10614_crystal_black_pearl_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 Civic Sedan,$20176,https://images.honda.ca:443/models/H/Models/2020/civic_sedan/dx_10617_crystal_black_pearl_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 Civic Hatchback,$25976,https://images.honda.ca:443/models/H/Models/2020/civic_hatchback/lx_10582_crystal_black_pearl_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 Civic Type R,$45476,https://images.honda.ca:443/models/H/Models/2020/civic_type_r/type_r_10641_nh_0championship_white_%5E2020_type_r_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2019 Accord Sedan,$29976,https://images.honda.ca:443/models/H/Models/2019/accord_sedan/lx_10560_crystal_black_pearl_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 Accord Sedan,$30276,https://images.honda.ca:443/models/H/Models/2020/accord_sedan/lx_10606_crystal_black_pearl_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 Accord Hybrid,$36276,https://images.honda.ca:443/models/H/Models/2020/accord_hybrid/hybrid_10612_crystal_black_pearl_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 Insight Hybrid,$30576,https://images.honda.ca:443/models/H/Models/2020/insight/hybrid_10580_platinum_white_pearl_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 Clarity Plug-in Hybrid,$42776,https://images.honda.ca:443/models/H/Models/2020/clarity/plug_in_10578_241modern_steel_metallic_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+
+Nissan
+Micra,$10488,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/micra/2020/vap/vehicle-profile/2020-nissan-micra-SR-versions-jellybean.png.ximg.l_4_m.smart.png
+Altima,$28098,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/altima/2020/vap/vehicle-profile/2020-nissan-altima-s-super-black.png.ximg.l_4_m.smart.png
+Maxima,$41140,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/maxima/2020/vap/vehicle-profile/2020-nissan-maxima-sl-super-black.png.ximg.l_4_m.smart.png
+Sentra,$18798,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/sentra/VAP/Vehicle-profile/MY20-Sentra-Jellybean-SRPremium-SuperBlack-OrangeMetallic.png.ximg.l_4_m.smart.png
+Leaf,$44298,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/leaf/2020/vap/vehicle-profile/2019-nissan-leaf-sv-plus-versions-jellybean.png.ximg.l_4_m.smart.png
+370Z Coupe,$30498,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/370z_coupe/VAPGrades/2019-nissan-370z-versions-coupe.png.ximg.l_4_m.smart.png
+GT-R,$129998,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/gtr/2020/vap/vehicle-profile/2020-nissan-GT-R-specs-premium.png.ximg.l_4_m.smart.png
+
+
+Hybrids and ELectrics
+
+Toyota
+Prius,$28550,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/prs.png?ck=05142020045748
+Prius Prime,$32990,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/phv.png?ck=05142020045748
+Corolla Hybrid,$24990,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/coh.png?ck=05142020045748
+Camry Hybrid,$31550,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/cah.png?ck=05142020045748
+RAV4 Hybrid,$32350,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/rah.png?ck=05142020045748
+Highlander Hybrid,$45490,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/hih.png?ck=05142020045748
+
+Honda
+2020 Accord Hybrid,$36276,https://images.honda.ca:443/models/H/Models/2020/accord_hybrid/hybrid_10612_crystal_black_pearl_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 Insight Hybrid,$30576,https://images.honda.ca:443/models/H/Models/2020/insight/hybrid_10580_platinum_white_pearl_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 Clarity Plug-in Hybrid,$42776,https://images.honda.ca:443/models/H/Models/2020/clarity/plug_in_10578_241modern_steel_metallic_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+
+Nissan
+Leaf,$44298,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/leaf/2020/vap/vehicle-profile/2019-nissan-leaf-sv-plus-versions-jellybean.png.ximg.l_4_m.smart.png
+
+
+SUV and Vans
+
+Toyota
+C-HR,$23650,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/chr.png?ck=05142020045748
+RAV4,$28090,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/rav.png?ck=05142020045748
+Highlander,$39990,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/hig.png?ck=05142020045748
+4Runner,$48120,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/rnr.png?ck=05142020045748
+Sequoia,$63290,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/seq.png?ck=05142020045748
+Sienna,$35750,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/sie.png?ck=05142020045748
+
+Honda
+2020 HR-V,$26236,https://images.honda.ca:443/models/H/Models/2020/hr_v/lx_10623_241modern_steel_metallic_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 CR-V,$30636,https://images.honda.ca:443/models/H/Models/2020/cr-v/lx_2wd_10622_crystal_black_pearl_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2019 Passport,$43936,https://images.honda.ca:443/models/H/Models/2019/passport/sport_10574_241modern_steel_metallic_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 Passport,$44436,https://images.honda.ca:443/models/H/Models/2020/passport/sport_10627_241modern_steel_metallic_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 Pilot,$43236,https://images.honda.ca:443/models/H/Models/2020/pilot/lx_10539_241modern_steel_metallic_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2020 Odyssey,$38236,https://images.honda.ca:443/models/H/Models/2020/odyssey/lx_10593_241modern_steel_metallic_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+
+Nissan
+Kicks,$19298,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/kicks/2020/vap/vehicle-profile/2020-nissan-kicks-s-gun-metallic.png.ximg.l_4_m.smart.png
+Qashqai,$21498,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/Qashqai/2020/vap/vehicle-profile/s-awd.jpg.ximg.l_4_m.smart.jpg
+Rogue,$27498,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/rogue/2020/vap/vehicle-profile/2020-nissan-rogue-sl-platinum-magnetic-black.png.ximg.l_4_m.smart.png
+Murano,$32898,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/murano/2020/vap/vehicle-profile/2020-nissan-murano-s-fwd-plus-versions-jellybean.png.ximg.l_4_m.smart.png
+Pathfinder,$36498,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/pathfinder/2020/vap/vehicle-profile/2020-nissan-pathfinder-sv-rock%20creek-magnetic-black.png.ximg.l_4_m.smart.png
+Armada,$65898,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/armada/2020/vap/vehicle-profile/2020-nissan-armada-sl-pearl-white.png.ximg.l_4_m.smart.png
+
+
+Trucks
+
+Toyota
+Tacoma,$37450,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/cp4.png?ck=05142020045748
+Tundra,$40650,https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/common/vehicles/thumbnails/tp2.png?ck=05142020045748
+
+Honda
+2020 Ridgeline,$44436,https://images.honda.ca:443/models/H/Models/2020/ridgeline/sport_10630_crystal_black_pearl_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+2019 Ridgeline,$42936,https://images.honda.ca:443/models/H/Models/2019/ridgeline/sport_10506_nh_830mlunar_silver_metallic_front.png?trim.percentpadding=5&trim.threshold=80&width=380
+
+Nissan
+Frontier,$24598,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/frontier/Vehicle%20Profile%20Assets/2019/new-images/2019-nissan-overview-VAP-versions-crewcab-pro-4x.png.ximg.l_4_m.smart.png
+Titan 2019,$47198,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/Titan/2019/vap/vehicle-profile/2019-nissan-titan-crew-cab-pro-4x-moab-sunset.png.ximg.l_4_m.smart.png
+Titan XD 2019,$49498,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/titan/Versions/2019-nissan-titanxd-versions-Pro-4x.png.ximg.l_4_m.smart.png
+Titan 2020,$50498,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/Titan/2020/vap/vehicle-profile/2020-nissan-findyour-titan.png.ximg.l_4_m.smart.png
+Titan XD 2020,$60998,https://www.nissan.ca//content/dam/Nissan/Canada/Vehicles/titan/2020/vap/vehicle-profile/2020-nissan-findyour-titanxd.png.ximg.l_4_m.smart.png
